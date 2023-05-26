@@ -1,7 +1,7 @@
 # Money-Manager-Privacy-Policy
-## Money Manager - Track your spendings: Privacy policy
+## Money Manager: Privacy policy
 
-Welcome to Money Manager - Track your spendings for Android!
+Welcome to Money Manager for Android!
 
 This app will be available on Google Play soon.
 
